@@ -1,0 +1,25 @@
+:root{
+  --aside-section-width: 460px;
+  --surface-color-1: #000000;
+  --surface-color-2: #78c089;
+  --surface-icon-color: #54656f;
+  --surface-icon-color2: #1fa855;
+  --background-color-1: #ffffff;
+  --background-color-2: #e9edef;
+  --background-color-3:#53bdeb;
+  --input-placeholder:#667781;
+  --surface-color: var(--surface-color-1);
+  --background-color: var(--background-color)
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body, .app {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 100%;
+  height: 100%;
+  
+}
+
